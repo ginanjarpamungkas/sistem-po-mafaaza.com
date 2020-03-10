@@ -2,6 +2,7 @@
 Sitem PO
 Menggunakan PosgreSQL dengan detail:
   host      : localhost
+  database  : mafaaza
   username  : postgres
   paswword  : 69919082
   
